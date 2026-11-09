@@ -25,11 +25,11 @@ Zenmap/Nmap was downloaded and installed successfully as part of the network sca
 
 ### Screenshot 01 — Nmap Download
 
-![Nmap Download](Module-5-Zenmap/screenshots/01-nmap-download.png)
+![Nmap Download](Module-5-Zenmap/screenshots/nmap-download.png)
 
 ### Screenshot 02 — Nmap Installation
 
-![Nmap Installation](Module-5-Zenmap/screenshots/02-nmap-installed.png)
+![Nmap Installation](Module-5-Zenmap/screenshots/nmap-installed.png)
 
 ---
 
@@ -47,7 +47,7 @@ The local network configuration was checked to identify the local IP address, su
 
 ### Screenshot 03 — IP Configuration
 
-![IP Configuration](Module-5-Zenmap/screenshots/03-ipconfig.png)
+![IP Configuration](Module-5-Zenmap/screenshots/ipconfig.png)
 
 ---
 
@@ -62,7 +62,7 @@ A **Zenmap Ping Scan** was performed against the local subnet:
 The Ping Scan was used to identify the live hosts available on the local network.
 
 ## Screenshot 04
-![ping scan](Module-5-Zenmap/screenshots/04-nmap-ping-scan.png)
+![ping scan](Module-5-Zenmap/screenshots/nmap-ping-scan.png)
 
 ## Task 4 — Number of Live Hosts
 
@@ -85,7 +85,7 @@ The live hosts identified during the scan were:
 
 Zenmap's Topology view was used to visualize the discovered hosts and network relationships.
 
-![nmap topology](Module-5-Zenmap/screenshots/08-nmap-topology.png)
+![nmap topology](Module-5-Zenmap/screenshots/nmap-topology.png)
 
 
 
@@ -125,7 +125,7 @@ Expiry Date: 2027-11-06
 Name Server: NS6135.HOSTGATOR.COM
 Name Server: NS6136.HOSTGATOR.COM
 
-![whois](Module-1-Footprinting/screenshots/10-whois.png)
+![whois](Module-1-Footprinting/screenshots/whois.png)
 
 ## Task 2 — WhatWeb
 Command
@@ -145,7 +145,7 @@ Bootstrap: 7.1.1
 Google Tag Manager
 HTML5
 Website Title: Networkwalks Academy
-![whatweb](Module-1-Footprinting/screenshots/11-whatweb.png)
+![whatweb](Module-1-Footprinting/screenshots/whatweb.png)
 
 ## Task 3 — NSLookup
 Command
@@ -159,7 +159,7 @@ NSLookup was used to resolve the domain name and identify its corresponding IP a
 Results
 DNS Server: 1.1.1.1
 Resolved IP Address: 192.232.216.135
-![nslookup](Module-1-Footprinting/screenshots/12-nslookup.png)
+![nslookup](Module-1-Footprinting/screenshots/nslookup.png)
 
 ## Task 4 — HTTP Response Headers
 Command
@@ -187,7 +187,7 @@ WordPress REST API information
 Referrer policy
 Permissions policy
 
-![curlheader](Module-1-Footprinting/screenshots/13-curl-headers.png)
+![curlheader](Module-1-Footprinting/screenshots/curl-headers.png)
 
 ## Task 5 — Web Application Firewall Detection
 Command
@@ -204,7 +204,7 @@ The tool reported:
 
 The site https://networkwalks.com is behind ModSecurity (SpiderLabs) WAF.
 
-![wafs00f](Module-1-Footprinting/screenshots/14-wafw00f.png)
+![wafs00f](Module-1-Footprinting/screenshots/wafw00f.png)
 
 ## Task 6 — DNS Enumeration
 Command
@@ -232,7 +232,7 @@ The tool reported:
 
 The enumeration completed successfully.
 
-![dnsrecon](Module-1-Footprinting/screenshots/15-dnsrecon.png)
+![dnsrecon](Module-1-Footprinting/screenshots/dnsrecon.png)
 
 Tools Used
 Module 5
