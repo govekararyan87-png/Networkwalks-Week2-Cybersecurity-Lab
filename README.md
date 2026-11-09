@@ -69,7 +69,7 @@ The Ping Scan was used to identify the live hosts available on the local network
 The network scan identified 1 live hosts in the subnet.
 
 Result
-5 live hosts
+1 live hosts
 
 ## Task 5 — IP Addresses of Live Hosts
 
