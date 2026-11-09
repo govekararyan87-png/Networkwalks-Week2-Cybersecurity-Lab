@@ -66,7 +66,7 @@ The Ping Scan was used to identify the live hosts available on the local network
 
 ## Task 4 — Number of Live Hosts
 
-The network scan identified 5 live hosts in the subnet.
+The network scan identified 1 live hosts in the subnet.
 
 Result
 5 live hosts
@@ -78,29 +78,16 @@ The live hosts identified during the scan were:
 192.168.0.100
 
 
-![Live Hosts](Module-5-Zenmap/screenshots/07-live-hosts.png)
 
-## Task 6 — MAC Addresses of Live Hosts
 
-The MAC addresses of the discovered live hosts were identified from the Zenmap scan results and network configuration information.
 
-Additional Network Scan
-
-An additional Regular Scan was performed to observe detected ports and services.
-
-![Regular Scan](Module-5-Zenmap/screenshots/05-nmap-regular-scan.png)
-
-An Intense Scan was also performed to obtain additional service and version information.
-
-![Intense Scan](Module-5-Zenmap/screenshots/06-nmap-intense-scan.png)
-
-## Task 7 — Network Topology
+## Task 6 — Network Topology
 
 Zenmap's Topology view was used to visualize the discovered hosts and network relationships.
 
 ![nmap topology](Module-5-Zenmap/screenshots/08-nmap-topology.png)
 
-![nmap Graphic](Module-5-Zenmap/screenshots/09-nmap-topology-graphic.png)
+
 
 
 
