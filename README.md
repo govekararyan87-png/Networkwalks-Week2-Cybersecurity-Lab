@@ -265,17 +265,6 @@ Reconnaissance techniques
 Kali Linux command-line tools
 Evidence
 
-All screenshots are organized in their respective module folders.
-
-Module 5
-
-Screenshots 01–09
-
-Module 1
-
-Screenshots 10–15
-
-The screenshot numbering is continuous across both modules because both modules are being submitted together as the Week 2 internship project.
 
 Week 2 Completion
  Module 5 — Network Scanning with Zenmap
